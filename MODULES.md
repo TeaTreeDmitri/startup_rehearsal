@@ -10,7 +10,7 @@
 7. Now we can run 'npm run dev' or 'npm run build'
 
 ## Git
-1. `git init`
+1. `git ingitit`
 2. `git status` (NO node_modules or dist e.g.)
 2.5. create .gitignore
 3. `git add --all`
