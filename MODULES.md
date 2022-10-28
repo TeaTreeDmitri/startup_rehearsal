@@ -18,8 +18,8 @@
 5. publish to gitHub (shift + cmd + p)
 
 ## SASS
-1. `npm insall --save-dev sass`
-2. rename style.scc to style.scss
+1. `npm install --save-dev sass`
+2. rename style.css to style.scss
 3. Change the import in main.js (not the html)
 4. start writing sass
 
